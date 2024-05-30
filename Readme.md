@@ -1,0 +1,1 @@
+Este repositório vai par uma trilha de aprendizado sobre mobile.
