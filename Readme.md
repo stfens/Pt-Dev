@@ -1,8 +1,28 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=stfens&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Lucas Eduardo!
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=stfens&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<table>
+  <tr>
+    <td>
+        <img src="https://img.shields.io/static/v1?label=Overview&message=stfens&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfens&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=stfens&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <p>Sou gerente financeiro na TITAN <br/> Eu sou desenvolvedor em treinamento</p>
 
@@ -38,7 +58,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-eduardo-530318153)](www.linkedin.com/in/lucas-eduardo-530318153)
-
 [![Gmail Badge](https://img.shields.io/badge/-lucaseduardo@ufba.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaseduardo@ufba.br)](mailto:lucaseduardo@ufba.br)
 [![GitHub](https://img.shields.io/github/followers/stfens?label=follow&style=social)]([https://github.com/stfens](https://github.com/stfens))
 
