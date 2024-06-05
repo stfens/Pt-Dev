@@ -1,6 +1,11 @@
- <img src="https://img.shields.io/static/v1?label=Overview&message=stfens&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+### Olá, meu nome é Lucas Eduardo 😎!
 
-### Olá, meu nome é Lucas Eduardo!
+<img src="https://img.shields.io/static/v1?label=Overview&message=stfens&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Sou gerente financeiro na TITAN <br/> Eu sou desenvolvedor em treinamento</p>
+
+### 🦾 Estatísticas
+
 <table>
   <tr>
     <td>
@@ -24,7 +29,6 @@
   </tr>
 </table>
 
-<p>Sou gerente financeiro na TITAN <br/> Eu sou desenvolvedor em treinamento</p>
 
 ## 🚀 Minhas Skills
 
