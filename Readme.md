@@ -37,7 +37,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Lucas-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-eduardo-530318153)](www.linkedin.com/in/lucas-eduardo-530318153)
+[![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-eduardo-530318153)](www.linkedin.com/in/lucas-eduardo-530318153)
 [![Gmail Badge](https://img.shields.io/badge/-lucaseduardo@ufba.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaseduardo@ufba.br)](mailto:lucaseduardo@ufba.br)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/stfens))
 
